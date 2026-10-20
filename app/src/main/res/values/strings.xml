@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云坞</string>
+    <string name="app_name_long">云坞 · WebDAV 文件系统</string>
+</resources>
